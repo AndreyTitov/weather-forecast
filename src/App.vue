@@ -8,7 +8,7 @@
           class="searchInput">
       <div @click="getCityByName(cityName)"
           class="searchButton">
-          <img src="./assets/search-solid.svg" alt="search-btn" class="icon-img">
+          <img src="./assets/magnifier.png" alt="search-btn" class="icon-img">
         </div>
     </div>
 

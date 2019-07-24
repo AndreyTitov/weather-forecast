@@ -12,7 +12,7 @@
                     <p class="city-temp"> {{city.main.temp}}&deg;C</p>
                     <div class="delete-btn"
                         @click="deleteItem(city)">
-                            <img src="../assets/trash-solid.svg" alt="delete-icon" class="icon-img">
+                            <img src="../assets/rubbish-bin-delete-button.png" alt="delete-icon" class="icon-img">
                     </div>
                 </li>
             </ul>

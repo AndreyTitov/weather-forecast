@@ -7,7 +7,7 @@
                 <p class="finded-temp">{{getData.main.temp}} &deg;C</p>
                     <div class="save-btn-wrapper">
                         <div @click="save(cityData)">
-                            <img src="../assets/save-regular.svg" alt="save-icon" class="icon-img">
+                            <img src="../assets/save-file-option.png" alt="save-icon" class="icon-img">
                             <p class="save-par">save</p>
                         </div>
                     </div>
