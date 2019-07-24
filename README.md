@@ -1,4 +1,9 @@
-# forecast
+# Weather Forecast on Vue.js + Vuex + LocalStorage
+
+## Preview
+```
+Weather forecast [Link for preview](https://andreytitov.github.io/weather-forecast/dist/)
+```
 
 ## Project setup
 ```
