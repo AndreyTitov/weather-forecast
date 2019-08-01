@@ -9,7 +9,7 @@
       <div @click="getCityByName(cityName)"
           class="searchButton">
           <img src="./assets/magnifier.png" alt="search-btn" class="icon-img">
-        </div>
+      </div>
     </div>
 
     <p class="lookingFor">You're looking for: <b>{{cityName}}</b></p>
